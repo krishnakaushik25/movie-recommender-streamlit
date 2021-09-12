@@ -5,4 +5,4 @@ Dataset Link: [Kaggle TMDB 5000 Movie Dataset](https://www.kaggle.com/tmdb/tmdb-
 
 Deployed on heroku 
 
-[![Streamlit APP](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nlpops.herokuapp.com/)(https://movierecommend-tmdb.herokuapp.com/)
+[![Streamlit APP](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://movierecommend-tmdb.herokuapp.com/)
